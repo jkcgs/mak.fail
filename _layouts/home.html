@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  <body>
+
+    <div class="hero">
+        <div>&nbsp;</div>
+        <div class="title">
+            <h1>Absolute cringe.</h1>
+            <p>Yes, that's what it is, and nothing else.</p>
+        </div>
+        <div class="down">scroll down<br>⬇️</div>
+    </div>
+    {%- include header.html -%}
+    
+    <main class="content" aria-label="Content">
+      {{ content }}
+    </main>
+
+    {%- include footer.html -%}
+  </body>
+</html>

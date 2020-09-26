@@ -1,0 +1,26 @@
+title: Mak's failures
+author: Makzk
+email: alexisbot@mak.wtf
+description: absolute cringe
+url: "https://mak.fail"
+page_lang: es
+lang: es_CL
+repo_url: https://github.com/jkcgs/mak.fail/
+page_repo_url: https://github.com/jkcgs/mak.fail/
+social:
+  name: Makzk
+  links:
+    - https://twitter.com/makzk_
+    - https://github.com/jkcgs
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - README.md
