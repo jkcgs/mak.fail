@@ -109,4 +109,7 @@ sudo apt install nginx
 sudo systemctl enable --now nginx
 ```
 
-<a href="/django-prod/" class="btn">← Volver a introducción</a>
+<div class="flex-browse">
+    <a href="/django-prod/" class="btn">← Volver a introducción</a>
+    <a href="/django-prod/parte-2/" class="btn">Siguiente (preparar uWSGI) →</a>
+</div>

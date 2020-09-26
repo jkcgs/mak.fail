@@ -2,7 +2,7 @@
 layout: home
 ---
 
-## Y aún así, está aquí
+## Y aún así, estás aquí
 ### Ahora, ¿qué es esto?
 
 Aquí voy a dejar algunas guías de cosas que me son rutinarias, y que
