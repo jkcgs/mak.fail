@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 html, body { margin: 0; padding: 0; font-family: 'Open Sans', sans-serif }
-body { height: 100vh; background: linear-gradient(#333, #666) }
+body { height: 100vh; background: #666 }
 article { max-width: 850px; margin: 0 auto; padding: 1rem; color: #fff }
 footer { text-align: center; color: #ccc }
-.wrap { background: linear-gradient(#333, #666) }
+body.home, .wrap { background: linear-gradient(#333, #666) }
 
 .hero { min-height: 100%; background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.4)), url(bg.png) no-repeat center; background-size: cover; display: flex; align-items: center; justify-content: space-between; flex-direction: column; text-align: center; color: #eee }
 .content { max-width: 1140px; margin: 0 auto; padding: 1rem; color: #fff }
