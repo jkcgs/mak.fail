@@ -49,10 +49,10 @@ Y quedará algo así:
 ```deb
 deb http://security.debian.org buster/updates main
 deb-src http://security.debian.org buster/updates main
-deb http://deb.debian.org/debian/ buster main contrib
-deb-src http://deb.debian.org/debian/ buster main contrib
-deb http://deb.debian.org/debian/ buster-updates main contrib
-deb-src http://deb.debian.org/debian/ buster-updates main contrib
+deb http://mirror.ufro.cl/debian/ buster main contrib
+deb-src http://mirror.ufro.cl/debian/ buster main contrib
+deb http://mirror.ufro.cl/debian/ buster-updates main contrib
+deb-src http://mirror.ufro.cl/debian/ buster-updates main contrib
 ```
 
 Si hay líneas relacionadas con el "cd-rom" de Debian, eliminarlas. En vim,

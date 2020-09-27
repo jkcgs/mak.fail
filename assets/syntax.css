@@ -1,4 +1,4 @@
-pre { background: #272822; padding: 10px; font-size: 14px; border-radius: 5px; overflow: auto }
+pre { background: #272822; padding: 10px; font-size: 14px; border-radius: 5px; overflow: auto; box-shadow: inset 0 0 3px rgba(0, 0, 0, .5); }
 
 /* Source: https://github.com/jwarby/jekyll-pygments-themes/blob/22dfd74f9f10c87c0ec98876e136f02c989d43ba/monokai.css */
 .highlight pre { background-color: #272822; }

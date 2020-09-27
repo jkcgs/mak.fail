@@ -28,3 +28,7 @@ servicios se ejecutan mediante Systemd.
 Para continuar, ve a la siguiente parte de esta guía.
 
 <a href="/django-prod/parte-1/" class="btn">Django en producción: parte 1 →</a>
+
+Hay una versión reducida aquí:
+
+<a href="/django-prod/tldr/" class="btn">Django en producción tl;dr →</a>
